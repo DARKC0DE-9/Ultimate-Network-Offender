@@ -1,15 +1,24 @@
 Network Offender
+
 This repository contains a script for educational purposes only. The script includes various network attacks and should not be used for any illegal activities.
 Usage
 
 To use the script, simply run the following command:
+
 python network_offender.py [options]
+
 The available options are:
+
 -h, --help: Show this help message and exit
+
 -l, --lan: Scan LAN for available targets
+
 -s, --arp <target_ip>: Perform ARP spoofing attack
+
 -d, --dns: Perform DNS spoofing attack
+
 -S, --https: Perform HTTPS SSLstrip attack
+
 -t, --tools: Run various tools, such as Nmap, Metasploit, Empire, Bro, ThreatConnect, Mitre, Msfvenom, and Burp Suite
 Requirements
 
