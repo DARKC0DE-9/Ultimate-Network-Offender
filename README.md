@@ -1,5 +1,4 @@
 Network Offender
-
 This repository contains a script for educational purposes only. The script includes various network attacks and should not be used for any illegal activities.
 Usage
 
